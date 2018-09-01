@@ -64,6 +64,7 @@ In the past, parts of Pannellum were based on [three.js](https://github.com/mrdo
 The panoramic image provided with the examples is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## Credits
-
+* [Adrian Barwicki](https://vq-labs.de/), Contributor (Alphateam Hackers GmbH)
+* [Erik Kaufmann](https://eder.de/), Contributor (eder GmbH)
 * [Matthew Petroff](http://mpetroff.net/), Original Author
 * [three.js](https://github.com/mrdoob/three.js) r40, Former Underlying Framework
